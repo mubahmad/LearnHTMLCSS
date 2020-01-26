@@ -1,3 +1,9 @@
 git add .
 git commit -m "name of your commit"
 git push
+
+git config --global user.name "your username"
+
+git config --global user.password "your password"
+
+git config --global user.email "your_email@example.com"
